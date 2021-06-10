@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site":"profile-badge-devfest",
+    "site":"profile-badge-gccf",
     "public": "public",
     "ignore": [
       "firebase.json",
